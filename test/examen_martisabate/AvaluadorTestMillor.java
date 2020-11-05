@@ -65,77 +65,77 @@ public class AvaluadorTestMillor {
                 new Estudiant("L",5,6,1),
                 new Estudiant("K",8,6,2)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("IA",1,7,2),
+                new Estudiant("JA",1,6,7),
+                new Estudiant("KA",8,6,2),
+                new Estudiant("LA",5,6,1),
+                new Estudiant("KA",8,6,2)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("IE",2,2,2),
+                new Estudiant("JE",3,3,3),
+                new Estudiant("KE",4,4,4),
+                new Estudiant("LE",1,1,1),
+                new Estudiant("KE",4,4,4)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("IT",9,9,9),
+                new Estudiant("JT",8,8,8),
+                new Estudiant("KT",8,7,7),
+                new Estudiant("LT",7,7,7),
+                new Estudiant("IT",9,9,9)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("E",2,3,4),
+                new Estudiant("F",6,6,7),
+                new Estudiant("G",8,6,2),
+                new Estudiant("H",2,6,5),
+                new Estudiant("F",6,6,7)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("I9",1,7,2),
+                new Estudiant("JF",1,6,7),
+                new Estudiant("KF",8,6,2),
+                new Estudiant("LF",5,6,1),
+                new Estudiant("KF",8,6,2)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("IE",2,2,2),
+                new Estudiant("JE",3,3,3),
+                new Estudiant("KE",4,4,4),
+                new Estudiant("LE",1,1,1),
+                new Estudiant("KE",4,4,4)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("IK",1,7,2),
+                new Estudiant("JK",1,6,7),
+                new Estudiant("KK",8,6,2),
+                new Estudiant("LK",5,6,1),
+                new Estudiant("KK",8,6,2)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("IT",9,9,9),
+                new Estudiant("JT",8,8,8),
+                new Estudiant("KT",8,7,7),
+                new Estudiant("LT",7,7,7),
+                new Estudiant("IT",9,9,9)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("A",5,6,7),
+                new Estudiant("B",1,6,7),
+                new Estudiant("C",3,6,2),
+                new Estudiant("D",8,6,8),
+                new Estudiant("A",5,6,7)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("E",2,3,4),
+                new Estudiant("F",6,6,7),
+                new Estudiant("G",8,6,2),
+                new Estudiant("H",2,6,5),
+                new Estudiant("F",6,6,7)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("IT",9,9,9),
+                new Estudiant("JT",8,8,8),
+                new Estudiant("KT",8,7,7),
+                new Estudiant("LT",7,7,7),
+                new Estudiant("IT",9,9,9)
             },
-            {new Estudiant("I",1,7,2),
-                new Estudiant("J",1,6,7),
-                new Estudiant("K",8,6,2),
-                new Estudiant("L",5,6,1),
-                new Estudiant("K",8,6,2)
+            {new Estudiant("I9",1,7,2),
+                new Estudiant("JF",1,6,7),
+                new Estudiant("KF",8,6,2),
+                new Estudiant("LF",5,6,1),
+                new Estudiant("KF",8,6,2)
             },
         
         
